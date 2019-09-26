@@ -9,3 +9,7 @@ git log
 git push origin master
 git pull origin master
 hello
+git diff
+hai 
+git init
+yuvi
