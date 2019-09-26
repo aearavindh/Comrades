@@ -3,3 +3,8 @@ git add
 git diff
 git branch
 git checkout master
+git init
+git status
+git log
+git push origin master
+git pull origin master
